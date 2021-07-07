@@ -65,5 +65,5 @@
         android:layout_alignParentRight="true"
         android:layout_centerVertical="true"
         android:layout_marginRight="16dp"
-        android:src="@drawable/outline_play_arrow_white_24"></ImageView>
+        android:src="@drawable/outline_play_arrow_white_24" />
 </RelativeLayout>
